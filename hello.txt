@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 hello
 hello
-=======
-
->>>>>>> parent of 8d8336b (add first line)
 #first repo
 
 #
